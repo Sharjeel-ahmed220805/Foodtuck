@@ -1,0 +1,38 @@
+.pages .page-item {
+    color: #fff;    
+}
+
+.pages .page-item h3 {
+    font-weight: 600;
+    font-size: 26px;
+    color: #cda45e;
+}
+
+.pages .page-item .price {
+    font-size: 26px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.pages .page-item .price span {
+    border-bottom: 2px solid #cda45e;
+}
+
+.pages .page-item ul {
+    list-style: none;
+    padding: 0;
+}
+.pages .page-item ul li {
+    padding-bottom: 10px;    
+}
+
+.pages .page-item ul i {
+    font-size: 20px;
+    padding-right: 4px;
+    color: #cda45e;
+}
+
+.pages .page-item p:last-child {
+    margin-bottom: 0;
+}
